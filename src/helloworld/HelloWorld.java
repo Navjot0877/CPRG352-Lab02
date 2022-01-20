@@ -16,7 +16,9 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // hello world
+        // I added this in assignment 0
        System.out.println("Hello World!");
+       System.out.println("Hello World 2!");
     }
     
 }
